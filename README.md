@@ -6,4 +6,13 @@
 5. Add Jump Click Handler
 6. Calculate Winner
 7. Deploy on Github Pages# react-tic-tac-toe
-# react-tic-tac-toe
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+### `npm start`
+
+Runs the app and the api (the full app experience)<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
